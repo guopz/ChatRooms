@@ -1,0 +1,49 @@
+/**
+ * chat
+ */
+
+body{
+	padding:50px;
+	font: 14px "微软雅黑",Arial,sans-serif;
+}
+a{
+	color: #00b7ff;
+}
+#content{
+	width: 800px;
+	margin: 0 auto;
+}
+#room{
+	background-color: #ddd;
+	margin-bottom: 1em;
+}
+#messages{
+	width: 670px;
+	height: 300px;
+	overflow: auto;
+	background-color: #eee;
+	margin-bottom: 1em;
+	margin-right: 10px;
+	padding: 10px;
+}
+
+#room-list{
+	float: right;
+	width: 100px;
+	height: 300px;
+	overflow: auto;
+}
+#room-list div{
+	border-bottom: 1px solid #ddd;
+}
+#room-list div:hover{
+	width: 700px;
+	margin-bottom: 1em;
+	margin-right: 1em;
+}
+#help{
+	font:10px "微软雅黑",Arial,sans-serif;
+	margin-top: 20px;
+	font-size: 16px;
+}
+#help ul li{margin-top: 5px;}
