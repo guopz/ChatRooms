@@ -7,4 +7,4 @@
 运行前安装相关依赖模块，直接 node server 
 
 
-![效果图片](https://github.com/guopz/nodejs-blog/blob/master/public/img/GIF.gif)
+![效果图片](https://github.com/guopz/nodojs-chatrooms/blob/master/public/img/GIF.gif)
